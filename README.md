@@ -1,3 +1,3 @@
 # Algonova
 
-Ini buatan Marizka
+File ini dibuat sekarang
